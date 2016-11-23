@@ -19,7 +19,7 @@
   url: https://www.eventbrite.com/e/biglietti-hacknight-caravel-27714670325
   free: true
 
-201610121800:
+201610121800+:
   organizer: WordPress Meetup TOrino
   title: "WordPress Meetup Ottobre 2016 Episodio 15: Hold your head up"
   when: !!str 2016-10-12 18:00:00
@@ -108,6 +108,13 @@
   title: "Corso: Installiamo insieme una distribuzione GNU/Linux"
   when: !!str 2016-11-23 18:00:00
   url: http://linuxdaytorino.org/2016/learning/gnu-linux-base-installation
+  free: true
+
+201612071800:
+  organizer: Comitato Linux Day Torino
+  title: "Corso: I comandi di base di un sistema GNU/Linux"
+  when: !!str 2016-11-07 18:00:00
+  url: http://linuxdaytorino.org/2016/learning/gnu-linux-base-command-line
   free: true
 
 201612131930:
